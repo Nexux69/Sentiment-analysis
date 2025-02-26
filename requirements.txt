@@ -1,0 +1,2 @@
+Libraries that Needs to be Installed - 
+1. vaderSentiment
